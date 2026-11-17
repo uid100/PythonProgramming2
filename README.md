@@ -14,3 +14,9 @@ https://uid100.github.io/PythonProgramming2/COR
 ## References
 
 [Python Programming 1](https://github.com/uid100/PythonProgramming)
+
+
+## sequence
+
+**Python I**: fundamentals, control structures, functions, file I/O, basic classes
+**Python II**: data structures, recursion, object-oriented design, abstraction, collections, algorithms, software design
